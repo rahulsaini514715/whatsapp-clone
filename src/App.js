@@ -1,12 +1,14 @@
 
 import './App.css';
-
+import Sidebar from './sidebar';
 function App() {
   return (
     <div className="App">
-     <p>Whatsapp-cloeeaaaaaxxzzzzzesss</p>
+       <div className='app_body'>
+        <Sidebar/>
+       </div>
     </div>
-  );n
+  );
 }
 
 export default App;
