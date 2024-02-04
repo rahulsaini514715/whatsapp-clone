@@ -70,3 +70,14 @@
 .sidebar_chatInfo p{
     font-size: 12px;
 }
+.sidebar_chat>h2{
+     font-size: 18px;
+     margin-left: 10px;
+     cursor: pointer;
+
+}
+
+.sidebar_chat .MuiAvatar-circular{
+    width: 30px;
+    height: 30px;
+}
